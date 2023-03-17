@@ -1,0 +1,23 @@
+Notes for Java and Eclipse Troubleshooting
+
+Default Home Folder for JDK
+Windows: C:\Program Files\Java\jdk-{version}
+
+Example for JDK 16 - C:\Program Files\Java\jdk-16
+
+Example for JDK 17 - C:\Program Files\Java\jdk-17
+
+Mac: /Library/Java/JavaVirtualMachines/jdk-{version}.jdk/Contents/Home
+
+Example for JDK 16 - /Library/Java/JavaVirtualMachines/jdk-16.jdk/Contents/Home
+
+Example for JDK 17 - /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home
+
+Default Home Folder for JDK
+Windows: C:\Program Files\Java\jdk-{version}\bin
+
+Example for JDK 16 - C:\Program Files\Java\jdk-16\bin
+
+Mac: /Library/Java/JavaVirtualMachines/jdk-{version}.jdk/Contents/Home/bin
+
+Example for JDK 16 - /Library/Java/JavaVirtualMachines/jdk-16.jdk/Contents/Home/bin
