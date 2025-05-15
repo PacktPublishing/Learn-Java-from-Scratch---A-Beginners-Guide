@@ -1,0 +1,26 @@
+[NEW ADDITION] World's Best Java Interview Guide
+Exciting news!
+
+
+
+We’ve added a brand-new Java Interview Guide, starting from Section 24.
+
+Up to Section 23, we take a clear, step-by-step approach to build deep understanding of core Java concepts.
+
+Starting Section 24, we focus on interview readiness—quick revisions, high-impact topics, and real-world questions to help you stand out with confidence.
+
+
+
+This guide is your shortcut to fast, focused prep—perfect before an interview or a major project.
+
+Our goal is to help you become the best Java developer you can be.
+
+
+
+Are you ready to get started? I will see you in the next step!
+
+
+
+Keep Learning Every Day,
+
+Ranga
